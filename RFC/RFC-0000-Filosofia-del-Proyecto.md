@@ -26,15 +26,55 @@ perciben, aprenden y evolucionan.
 -   No es una red neuronal monolítica.
 -   No busca maximizar conocimiento sin límites.
 
-## 4. Principios fundamentales
+# 4. Principios Fundamentales
 
--   Homeostasis cognitiva antes que optimización.
--   Arquitectura modular y desacoplada.
--   Inteligencia emergente a partir de órganos especializados.
--   Aprender implica reorganizar modelos internos.
--   Olvidar es una función adaptativa.
--   La incertidumbre es un estado válido.
--   El organismo debe saber cuándo no sabe.
+## Homeostasis
+
+El organismo buscará mantener un equilibrio dinámico entre sus recursos internos y las demandas del entorno.
+
+La estabilidad no implica inmovilidad, sino adaptación continua.
+
+---
+
+## Recursos Cognitivos Limitados
+
+Todo procesamiento posee un costo.
+
+Tiempo.
+
+Energía.
+
+Memoria.
+
+Atención.
+
+Los recursos cognitivos son limitados; por tanto, deben asignarse prioritariamente a aquello que modifica la probabilidad de persistencia del organismo.
+
+La inteligencia no consiste únicamente en resolver problemas.
+
+Consiste, primero, en decidir cuáles problemas justifican el uso de recursos.
+
+---
+
+## Modularidad
+
+La inteligencia emerge de la cooperación entre órganos especializados.
+
+Ningún órgano posee conocimiento completo del entorno.
+
+---
+
+## Aprendizaje
+
+Aprender implica reorganizar modelos internos.
+
+No consiste únicamente en acumular información.
+
+---
+
+## Madurez
+
+La madurez corresponde a la capacidad del organismo para revisar y redefinir sus propios preceptos cuando la evidencia lo exige, preservando la coherencia global del sistema.
 
 ## 5. Definiciones
 

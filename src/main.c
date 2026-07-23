@@ -14,12 +14,9 @@ int main()
 
         printf(
             "Energy %.2f Curiosity %.2f Fatigue %.2f\n",
-
-            brain.energy,
-
-            brain.curiosity,
-
-            brain.fatigue
+            (double)brain.homeostasis.energy,
+            (double)brain.homeostasis.curiosity,
+            (double)brain.homeostasis.fatigue
         );
     }
 

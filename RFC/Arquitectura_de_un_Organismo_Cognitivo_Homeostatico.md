@@ -263,8 +263,8 @@ organism/
 │
 ├── core/
 │   ├── organism.c
-│   ├── scheduler.c
-│   ├── state.c
+│   ├── endocrine.c
+│   ├── homeostasis.c
 │   └── metabolism.c
 │
 ├── organs/
@@ -276,7 +276,7 @@ organism/
 ├── include/
 │   ├── organism.h
 │   ├── organ.h
-│   └── state.h
+│   └── homeostasis.h
 │
 ├── examples/
 │
@@ -288,3 +288,21 @@ La hipótesis central no es construir un modelo gigantesco, sino un
 organismo compuesto por procesos especializados cuya inteligencia emerja
 de su cooperación y de su capacidad para mantener un equilibrio dinámico
 mientras aprende.
+
+El flujo del sistema sería así:
+Homeostasis
+        │
+        ▼
+Sistema Endocrino
+        │
+        ▼
+Hormonas
+        │
+        ▼
+Órganos
+        │
+        ▼
+Cambios
+        │
+        ▼
+Homeostasis

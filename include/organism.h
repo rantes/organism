@@ -1,15 +1,22 @@
 #ifndef ORGANISM_H
 #define ORGANISM_H
 
+#include "homeostasis.h"
+#include "hormones.h"
+
 typedef struct {
 
-    float energy;
+    Homeostasis homeostasis;
 
-    float curiosity;
+    Hormones hormones;
 
-    float uncertainty;
+    // Memory memory;
 
-    float fatigue;
+    // Prediction prediction;
+
+    // Novelty novelty;
+
+    // Contradiction contradiction;
 
 } Organism;
 
